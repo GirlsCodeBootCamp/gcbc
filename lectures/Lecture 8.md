@@ -20,17 +20,17 @@ Access Passcode: `jB=^c45G`
 
 [Hackerearth - Intro to DP](https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/tutorial/)
 
-[Youtube](https://www.youtube.com/watch?v=OQ5jsbhAv_M&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=20)
+[Youtube - DP: Fibonacci, Shortest Paths](https://www.youtube.com/watch?v=OQ5jsbhAv_M&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=20)
 
-[Youtube](https://www.youtube.com/watch?v=ENyox7kNKeY&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=21)
+[Youtube - DP: Text Justification, Blackjack](https://www.youtube.com/watch?v=ENyox7kNKeY&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=21)
 
-[Youtube](https://www.youtube.com/watch?v=ocZMDMZwhCY&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=22)
+[Youtube - DP: Parenthesization, Edit Distance, Knapsack](https://www.youtube.com/watch?v=ocZMDMZwhCY&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=22)
 
-[Youtube](https://www.youtube.com/watch?v=P8Xa2BitN3I)
+[Youtube - Memoization and Dynamic Programming](https://www.youtube.com/watch?v=P8Xa2BitN3I)
 
-[Youtube](https://www.youtube.com/watch?v=sn0DWI-JdNA)
+[Youtube - Solve _Coin_Change_ Using Memoization and DP](https://www.youtube.com/watch?v=sn0DWI-JdNA)
 
-[Youtube](https://www.youtube.com/watch?v=eREiwuvzaUM)
+[Youtube - Solve _Recursive_Staircase_ Using Recursion](https://www.youtube.com/watch?v=eREiwuvzaUM)
 
 [Graphical Intro to DP](https://medium.com/@avik.das/a-graphical-introduction-to-dynamic-programming-2e981fa7ca2)	
 
