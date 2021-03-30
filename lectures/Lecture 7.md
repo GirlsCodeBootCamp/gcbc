@@ -14,8 +14,7 @@ Access Passcode: `L$f46VQX`
 Access Passcode: `$fCc4G%3`
 
 ### Resources from Margarita:
-Materials for Sliding Window:
-[Sliding Window Technique](ttps://zengruiwang.medium.com/sliding-window-technique-360d840d5740)
+[Sliding Window Technique](https://zengruiwang.medium.com/sliding-window-technique-360d840d5740)
 
 [Algorithm template to solve all the Leetcode substring search problem](https://leetcode.com/problems/find-all-anagrams-in-a-string/discuss/92007/sliding-window-algorithm-template-to-solve-all-the-leetcode-substring-search-problem)
 
