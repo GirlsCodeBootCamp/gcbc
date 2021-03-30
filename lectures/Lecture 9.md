@@ -1,7 +1,7 @@
 ## Lecture 9: Graphs
 
 ### Colab Notebooks:
-[Lesson 9 Colab](https://colab.research.google.com/drive/1b-1caz9QaUU476D173jt-qvBxwt7z12k?usp=sharing)
+[Lesson 9](https://colab.research.google.com/drive/1b-1caz9QaUU476D173jt-qvBxwt7z12k?usp=sharing)
 
 ### Class Recording:
 [Meeting Recording](https://us02web.zoom.us/rec/share/Ch1EMOn0UqUieQ6DhR2NMx1GNg52cCqCIufNrUS9acdO5n4ZoMpwtyijH-ZCEkbg.51Jhfn56h7eJ1FCx)
